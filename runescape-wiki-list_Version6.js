@@ -1,4 +1,4 @@
-const sheetUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQK-HqUIuZbSx53ZjD-Y-h8r9sqaZ3lv0Ol3Rq8lNKdp1CFcFxQNi9LP1hBGIPkybBVI5O8KDhrHFeJ/pub?gid=0&single=true&output=csv";
+const sheetUrl = "tasks.csv";
 const tableBody = document.querySelector("#tasks-table tbody");
 const toggleDarkBtn = document.getElementById("toggle-dark");
 const searchInput = document.getElementById("search");
